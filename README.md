@@ -16,7 +16,7 @@ WHAT THE MOD ADDS:
 I spent over nine hours translating and porting this and didn't take a single break, go easy on me.
 
 CREDITS:
-I have no idea who made the original mod, but whoever you are and whereever you are, thank you.
-ChestHole, for inspiring me to do this thanks to his... attempt at porting the mod into English. (sorry)
+-Original Battle Maid mod can be downloaded from https://www.axfc.net/u/3747115. This mod is a translation of this, I take no credit for the original.
+-ChestHole, for inspiring me to do this thanks to his... attempt at porting the mod into English. (sorry)
 
 Let me know if there are issues with it.
