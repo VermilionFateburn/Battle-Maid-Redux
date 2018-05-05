@@ -69,7 +69,16 @@
 	"slaying_pan_on",
 	"slaying_pan",
 	"vorpal_kitchen_knife_on",
-	"vorpal_kitchen_knife"
+	"vorpal_kitchen_knife",
+	"broom",
+	"mop",
+	"knife_butter",
+	"knife_steak",
+	"spoon",
+	"fork",
+	"pan",
+	"vibrator"
+	
 	
         ]
     }
