@@ -26,13 +26,13 @@
     {
         "type" : "speech",
         "speaker" : "mon_shoggoth_maid",
-        "sound" : "\"Master! A-ah, my master's thing... Tekeli-li! Kya!\"",
+        "sound" : "\"Master! A-ah, my master's thing... tekeli-li! Kya!\"",
         "volume" : 10
     },
     {
         "type" : "speech",
         "speaker" : "mon_shoggoth_maid",
-        "sound" : "\"I am a maid♪ Your maid♪ Cleaning, washing, cooking... Why didn't you let me continue?\"",
+        "sound" : "\"I am a maid♪ Your maid♪ Cleaning, washing, cooking... why didn't you let me continue?\"",
         "volume" : 10
     },
     {
@@ -68,7 +68,7 @@
     {
         "type" : "speech",
         "speaker" : "mon_shoggoth_maid",
-        "sound" : "\"Blobs, Triffids, Mycus... They are too diffcult for humans to counter. So... Let's make a child to fight against them! She'll be as strong as a thousand humans!\"",
+        "sound" : "\"Blobs, Triffids, Mycus... they are too diffcult for humans to counter. So... let's make a child to fight against them! She'll be as strong as a thousand humans!\"",
         "volume" : 10
     },
     {
@@ -92,7 +92,7 @@
     {
         "type" : "speech",
         "speaker" : "mon_shoggoth_maid",
-        "sound" : "\"The past cannot be changed. The future may be dark. But, I have my master by my side. So, please... please... Don't leave me alone.\"",
+        "sound" : "\"The past cannot be changed. The future may be dark, but I have my master by my side. So, please... please... don't leave me alone.\"",
         "volume" : 10
     },
     {
@@ -116,13 +116,13 @@
     {
         "type" : "speech",
         "speaker" : "mon_shoggoth_maid",
-        "sound" : "\"If you have a pet carrier, you can store me in it. I am a pet... Your pet, master♪\"",
+        "sound" : "\"If you have a pet carrier, you can store me in it. I am a pet... your pet, master♪\"",
         "volume" : 10
     },
     {
         "type" : "speech",
         "speaker" : "mon_shoggoth_maid",
-        "sound" : "\"I can also make furniture and food with my body! ... You don't want any? Oh...\"",
+        "sound" : "\"I can also make furniture and food with my body! ...You don't want any? Oh...\"",
         "volume" : 10
     },
     {
@@ -158,7 +158,7 @@
     {
         "type" : "speech",
         "speaker" : "mon_shoggoth_maid",
-        "sound" : "\"Is it okay for me to die? Yeah, right♪ Ah, I will fully recover even from the most mortal wounds. Truly, you'd have to kill me down to the molecular level for me to die... That's why you don't have to be worried about me, master♪\"",
+        "sound" : "\"Is it okay for me to die? Yeah, right!♪ Ah, I will fully recover even from the most mortal wounds. Truly, you'd have to kill me down to the molecular level for me to die... That's why you don't have to be worried about me, master♪\"",
         "volume" : 10
     },
     {
@@ -200,7 +200,7 @@
     {
         "type" : "speech",
         "speaker" : "mon_shoggoth_maid",
-        "sound" : "\"Why am I in human form? Well, that's how I can talk to my master, to be able to walk hand in hand with my master and have a body for my master to... Nevermind!\"",
+        "sound" : "\"Why am I in human form? Well, that's how I can talk to my master, to be able to walk hand in hand with my master and have a body for my master to... nevermind!\"",
         "volume" : 10
     },
     {
@@ -212,7 +212,7 @@
     {
         "type" : "speech",
         "speaker" : "mon_shoggoth_maid",
-        "sound" : "\"The lingering lightning after an electric shock reaches only one square around! So if you wield a spear and a use a suitable martial art, you can dodge it all! ... I have no idea what I just said.\"",
+        "sound" : "\"The lingering lightning after an electric shock reaches only one square around! So if you wield a spear and a use a suitable martial art, you can dodge it all! ...I have no idea what I just said.\"",
         "volume" : 10
     },
     {
@@ -260,7 +260,7 @@
     {
         "type" : "speech",
         "speaker" : "mon_shoggoth_maid",
-        "sound" : "\"Master's smell... It's intoxicating... Haa, master...♪\"",
+        "sound" : "\"Master's smell... it's intoxicating... haa, master...♪\"",
         "volume" : 10
     },
     {

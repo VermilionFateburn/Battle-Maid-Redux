@@ -5,7 +5,7 @@
     "category" : "weapons",
     "symbol": "/",
     "color": "light_gray",
-    "name": "Vorpal kitchen knife",
+    "name": "vorpal kitchen knife",
     "description": "A sharpened kitchen knife improved for combat. It slices through enemies, turning them into slabs of meat ready to be cooked. While consuming maid points, it can drain the physical strength of whatever it sliced.",
     "price": 9000,
     "material": ["steel","wood"],
@@ -55,7 +55,7 @@
     "revert_to": "vorpal_kitchen_knife",
     "use_action": {
             "type": "transform",
-            "msg": "You wiped the blade clean.",
+            "msg": "You wipe the blade clean.",
             "target": "vorpal_kitchen_knife",
             "need_charges": 0
         },
@@ -265,7 +265,7 @@
     "color": "dk_gray",
     "name": "maid claw",
     "name_plural": "maid claws",
-    "description": "A sharp clawed gauntlet weapon fit for fighting. It fits tightly in your arm and offers little encumbarance, as if you're fighting bare handed. By using maid points, you can send forth a flame as blazing hot as your love for your master.",
+    "description": "A sharp clawed gauntlet weapon fit for fighting. It fits tightly on your arm and offers little encumbarance, as if you're fighting bare handed. By using maid points, you can send forth a flame as blazing hot as your love for your master.",
     "price": 50000,
     "material": ["steel","leather"],
     "skill": "unarmed",
