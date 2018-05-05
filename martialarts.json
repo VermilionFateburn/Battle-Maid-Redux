@@ -56,6 +56,21 @@
                         "tec_maid_meleecounter",
                         "tec_maid_miyage",
                         "tec_maid_kyusyu"
+						],
+    "weapons": [
+	"battle_mop",
+	"maid_claw",
+	"shikomi_stick_draw",
+	"shikomi_stick",
+	"shikomi_kasa_draw",
+	"shikomi_kasa",
+	"spiked_whip",
+	"brutal_broom",
+	"slaying_pan_on",
+	"slaying_pan",
+	"vorpal_kitchen_knife_on",
+	"vorpal_kitchen_knife"
+	
         ]
     }
 ]
